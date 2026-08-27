@@ -1,12 +1,4 @@
-MetaTrader5==5.0.47
-pandas==2.2.2
-numpy==1.26.4
-scikit-learn==1.5.1
-xgboost==2.1.0
-ta==0.11.0
-joblib==1.4.2
-optuna==3.6.1
-river==0.21.2
-python-dotenv==1.0.1
-matplotlib==3.9.0
-pyyaml==6.0.1
+streamlit>=1.50,<2
+pandas>=2.2,<4
+requests>=2.32,<3
+plotly>=5.24,<7
